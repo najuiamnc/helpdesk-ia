@@ -1,4 +1,4 @@
-🎧 Helpdesk IA — Triagem Automática de Chamados
+Helpdesk IA — Triagem Automática de Chamados
 
 Sistema de helpdesk que usa Inteligência Artificial para triar chamados de suporte automaticamente: ao receber um chamado, a IA classifica a categoria, define a prioridade, gera um resumo e sugere uma resposta ao usuário.
 
